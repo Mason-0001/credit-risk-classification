@@ -1,5 +1,3 @@
-# Module 12 Report Template
-
 ## Overview of the Analysis
 
 The purpose of the following analysis was to use a large data set of loans and try to predict which loans were healthy and which were high risk. I had information about the loan size, interest rate, borrower income, debt to income, number of accounts, derogatory marks, total dept, and finally the loan status (which was either 'healthy' or 'high risk'). I was specifically trying to use all of those variables to predict what the resulting loan status would be. 
